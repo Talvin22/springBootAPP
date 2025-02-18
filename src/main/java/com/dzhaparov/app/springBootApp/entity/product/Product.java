@@ -1,4 +1,5 @@
-package com.dzhaparov.app.springBootApp.entity;
+package com.dzhaparov.app.springBootApp.entity.product;
+import com.dzhaparov.app.springBootApp.entity.order.Order;
 import jakarta.persistence.*;
 
 import java.util.Objects;

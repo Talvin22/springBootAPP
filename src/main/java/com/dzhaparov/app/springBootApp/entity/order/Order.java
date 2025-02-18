@@ -1,5 +1,6 @@
-package com.dzhaparov.app.springBootApp.entity;
+package com.dzhaparov.app.springBootApp.entity.order;
 
+import com.dzhaparov.app.springBootApp.entity.product.Product;
 import jakarta.persistence.*;
 
 import java.util.Date;
